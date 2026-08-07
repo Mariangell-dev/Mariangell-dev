@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="ado y azul.png" alt="Banner" width="100%">
+  <img src="Diseño sin título.png" alt="Banner" width="100%">
 </p>
 
 ## 👋 Hi, I'm Mariangell
