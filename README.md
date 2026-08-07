@@ -1,6 +1,6 @@
 
 <p align="center">
- ![Banner](Diseño sin título(1).png)
+<img src="Diseño sin título(1).png" alt="Banner" width="100%">
 
 ## 👋 Hi, I'm Mariangell
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Software+Development+Student;Learning+Java+%7C+Python+%7C+Git;Future+Full+Stack+Developer)](https://git.io/typing-svg)
